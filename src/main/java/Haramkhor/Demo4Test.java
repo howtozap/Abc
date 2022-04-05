@@ -2,7 +2,7 @@ package Haramkhor;
 
 import org.testng.annotations.Test;
 
-public class Demo4 {
+public class Demo4Test {
 	@Test
 	public void test1()
 	{
